@@ -1,6 +1,6 @@
 # FinanceFlow — Expense Tracker
 
-A personal expense tracking app built with React + Recharts. No backend needed — data persists in your browser's localStorage.
+A vibe-coded personal expense tracking app built with React + Recharts. No backend needed — data persists in your browser's localStorage.
 
 ## Quick Start (Local)
 
